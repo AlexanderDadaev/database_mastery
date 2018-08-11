@@ -1,4 +1,4 @@
---This script demonstrates usage of "crosstab" function. It transposes date from a column (insurance types) into several different columns. 
+--This script demonstrates the usage of "crosstab" function. It transposes date from a column (insurance types) into several different columns. 
 --This helps to define customer groups by their product composition. 
 ---------------------------------------------------
 select 
